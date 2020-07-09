@@ -10,10 +10,10 @@ and I am 3 years old.
 cat and dog inherit age values from animal since instance can stored multiple data/values without sharing the values with other instances. 
  
 #### 3. What actually consists an instance of?
-modifier, data type, variable name.
+data type, variable name. i.e int age
 
 ####  4. And what consists a class of?
-class name, method, data member, constructor
+class name, method, data member, constructor 
 
 #### 5. What is the difference between a class and an instance?
 instance indicate relationship of object with its class while is a blueprint which is use to create object. 
