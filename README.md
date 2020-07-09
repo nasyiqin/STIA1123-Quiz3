@@ -16,7 +16,7 @@ modifier, data type, variable name.
 class name, method, data member, constructor
 
 #### 5. What is the difference between a class and an instance?
-instance indicate relationship of object with its class while is a blueprint which is use to create object. Object is an instances of class, object and instances are same
+instance indicate relationship of object with its class while is a blueprint which is use to create object. 
 
 #### 6. Change the declaration of the instance variable age of Animal to a class variable using static, in this way:
 
@@ -36,10 +36,10 @@ and I am 3 years old.
 because the age value is set as 3 referring to cat age.
 
 #### 7. Where is the value of an instance variable stored?
-age in Animal class.
+in Lab1Stage1 main method, where the age is defined.
 
 #### 8. Where is the value of a class variable stored?
-in heap
+age in Animal class.
 
 #### 9. What refers the variable this to?
-age
+refers to class itself. if two variable or method with same name are used, variable this will use both of class version. 
